@@ -2,7 +2,7 @@ import csv
 import requests
 from datetime import datetime
 
-URL = "http://SAJAT_DDNS/cgi-bin/github_daily.cgi"
+URL = "http://energiezolee.mooo.com:8080/cgi-bin/github_daily.cgi"
 FILE = "outside_history.csv"
 
 # 1. adat lekérése a routerről
